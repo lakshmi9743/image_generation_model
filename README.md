@@ -40,4 +40,4 @@ This project involves the implementation of a **Text-to-Image Generation** pipel
 *   **Connection Errors:** Encountered `SyntaxError: Unexpected token '<'` due to tunnel timeouts. Resolved by restarting the Gradio cell and using the local URL for stable recording.
 
 ---
-Created by [Mahalakshmi V] | Internship Task-02 | ProDigy InfoTech
+Created by Mahalakshmi V | Internship Task-02 | ProDigy InfoTech
