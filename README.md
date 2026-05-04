@@ -23,7 +23,6 @@ This project involves the implementation of a **Text-to-Image Generation** pipel
 | *A realistic commercial airplane flying through a clear blue sky.* | ![image(4)](airoplane.webp) |
 | *A hyper-realistic macro photograph of a red rose with dew drops.* | ![image(3)](rose.webp) |
 
-> **Note:** Replace the image links above with the actual images you save from your Gradio interface.
 
 ## ⚙️ How to Run
 1.  Open the provided `.ipynb` notebook in **Google Colab**.
