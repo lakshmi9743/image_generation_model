@@ -19,9 +19,9 @@ This project involves the implementation of a **Text-to-Image Generation** pipel
 
 | Prompt | Generated Image |
 | :--- | :--- |
-| *A hyper-realistic of a panda with cinematic forest lighting.* | ![Panda](image.png) |
-| *A realistic commercial airplane flying through a clear blue sky.* | ![Plane](image(4).png) |
-| *A hyper-realistic macro photograph of a red rose with dew drops.* | ![Rose](image(3).png) |
+| *A hyper-realistic of a panda with cinematic forest lighting.* | ![image](image.png) |
+| *A realistic commercial airplane flying through a clear blue sky.* | ![image(4)](image(4).png) |
+| *A hyper-realistic macro photograph of a red rose with dew drops.* | ![image(3)](image(3).png) |
 
 > **Note:** Replace the image links above with the actual images you save from your Gradio interface.
 
