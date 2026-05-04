@@ -19,7 +19,7 @@ This project involves the implementation of a **Text-to-Image Generation** pipel
 
 | Prompt | Generated Image |
 | :--- | :--- |
-| *A breathtaking wide-angle landscape of a sunflower farm at sunset.* | ![Sunflower Farm](sunflower.png) |
+| *A hyper-realistic of a panda with cinematic forest lighting.* | ![Panda](panda.png) |
 | *A realistic commercial airplane flying through a clear blue sky.* | ![Plane](airplane.png) |
 | *A hyper-realistic macro photograph of a red rose with dew drops.* | ![Rose](rose.png) |
 
