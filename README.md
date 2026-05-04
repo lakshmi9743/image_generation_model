@@ -1,4 +1,4 @@
-# ProDigy Infotech - Task 02: Image Generation with Pre-trained Models
+# ProDigy InfoTech - Task 02: Image Generation with Pre-trained Models
 
 ## 📌 Project Overview
 This project involves the implementation of a **Text-to-Image Generation** pipeline as part of my internship at **ProDigy InfoTech**. Using the **Stable Diffusion v1.5** model, I developed an interactive interface that allows users to generate high-quality, realistic images from textual descriptions.
