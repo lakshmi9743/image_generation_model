@@ -19,9 +19,9 @@ This project involves the implementation of a **Text-to-Image Generation** pipel
 
 | Prompt | Generated Image |
 | :--- | :--- |
-| *A breathtaking wide-angle landscape of a sunflower farm at sunset.* | ![Sunflower Farm](link_to_your_image_1.png) |
-| *A realistic commercial airplane flying through a clear blue sky.* | ![Plane](link_to_your_image_2.png) |
-| *A hyper-realistic macro photograph of a red rose with dew drops.* | ![Rose](link_to_your_image_3.png) |
+| *A breathtaking wide-angle landscape of a sunflower farm at sunset.* | ![Sunflower Farm](sunflower.png) |
+| *A realistic commercial airplane flying through a clear blue sky.* | ![Plane](airplane.png) |
+| *A hyper-realistic macro photograph of a red rose with dew drops.* | ![Rose](rose.png) |
 
 > **Note:** Replace the image links above with the actual images you save from your Gradio interface.
 
