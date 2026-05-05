@@ -1,6 +1,6 @@
 # ProDigy InfoTech - Task 02: Image Generation with Pre-trained Models
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qS2CN1DO0kplR5GKqMP14RdH_6yYIVJy?usp=sharing)
-live demo : https://9640cf10b1e1342b16.gradio.live
+*live demo : https://9640cf10b1e1342b16.gradio.live
 
 ## 📌 Project Overvie
 This project involves the implementation of a **Text-to-Image Generation** pipeline as part of my internship at **ProDigy InfoTech**. Using the **Stable Diffusion v1.5** model, I developed an interactive interface that allows users to generate high-quality, realistic images from textual descriptions.
